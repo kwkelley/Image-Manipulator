@@ -1,4 +1,4 @@
-"author @ Keane Kelley"
+//author @ Keane Kelley
 import java.io.File;
 import java.util.Arrays;
 
